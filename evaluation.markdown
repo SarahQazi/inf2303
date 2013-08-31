@@ -1,6 +1,6 @@
 # Course Structure
 
-This course will be taught as a seminar.
+This course will be taught as a seminar except for the first two classes which will be lecture format.
 While the instructor will at times present material to complement the
   readings, much of the time will be spent discussing and analyzing
   the readings.
@@ -13,85 +13,28 @@ Students are expected to take responsibility for their learning of the
 
 Grades will be based on the following components:
 
-  * preparation for the class (“memos,” **15%** of the course grade),
-  * contribution to class discussion (**15%**),
-  * the term paper (three deliverables jointly worth **50%**),
-  * reviews of other students’ paper proposals (**10%**),
-  * a course “patch” (**10%**, see below).
+•	Presentation on an open source project: 25%
+•	Seminar discussion lead: 20% (2 X 10% each)
+•	Term Paper: 35%
+•	Course Patch: 10%
+•	Participation: 10%
 
-### Contribution to Class Discussion — 15%
+Assignment 1: Presentation on an open source project or product
 
-As the course will be taught in the form of a seminar, students will
-  be graded for their contribution to the class discussion.
-<span class="important">Please be advised that contribution does not
-  mean attendance.</span>
-(Of course, you cannot contribute without being present.)
-Students who attend the class but remain silent will earn no
-  credit.
-Nor, however, does it mean simply speaking a lot.
-Rather, students are expected to come to class prepared, actively
-  listen to what is being said by others and then make contributions
-  to the discussion that take advantage of their own understanding of
-  the readings and of what has been said up to that point.
-Class discussion will follow a structure that will be described in a
-  handout.
-Each student will be asked to serve as one of the “chairs” for
-  one week’s discussion and as a “panelist” on several other ones.
-Students who have difficulty speaking in public should see the
-  instructor early in the semester, so that we could discuss possible
-  remedies.
+In groups of 4-5 students will select an open source project for detailed study and analysis and present their findings in a 20 minute presentation in class.
+Students will research and select an open source project or software and provide an overview of it including its history, founders, uses, purpose, and targeted audience. Students should also provide examples of major decision making in the life of the project or product, as well as challenges, controversies and successes. 
+The purpose of this assignment is for students to gain deeper insight into open source projects and software by examining actual OS projects or products. This assignment will provide students a chance to connect the theoretical knowledge gained in the course to an real life OS software or project. 
 
-### Memos — 15%
+Assignment 2: Seminar Discussion Lead
 
-For all classes other than the first and the last, the students will
-  prepare “memos” on the readings assigned for that class.
-Each memo should be no longer than 1 page and should be formatted in
-  accordance with this template:
-  [memo_template.pdf](handouts/memo_template.pdf),
-  [memo_template.odt](handouts/memo_template.odt),
-  [memo_template.doc](handouts/memo_template.doc),
-  [memo_template.rft](handouts/memo_template.rtf).
+Students will be required to lead a seminar discussion 2 times in the course. Students will sign up for classes they wish to lead during the first class. 
+2-3 students will be expected to lead the discussion during each class. Students will present a summary and critique of the readings and ask 2 discussion questions. Each student will summarize a different reading for that day. For example if there are 3 readings assigned and 3 students leading that day—each student will be responsible for a different reading and 2 discussion questions. Students will take turns presenting the summaries and leading the discussions in the class.  
+Seminar presentations will be graded for quality of the summary, analysis, and critique of the readings presented and the aptitude of the discussion questions to spark discussion. 
 
-The purpose of the memos is to help you make better sense of the
-  readings and to increase the quality of the in-class discussion by
-  ensuring that all students arrive to class having done the readings
-  and having spent some time thinking about them.
+Assignment 3 Term Paper
 
-Each memo should consist of four sections.
-
-* Central issues in the readings;
-* The points on which the authors agree and disagree;
-* Your position on the issues (with explanation);
-* Three questions for discussion in the class (provide a brief
-  explanation of your questions if necessary).
-  
-The memos are due by email, <span class="important">by 8 am of the day
-  of each class</span>. (Please see below on the late policy for
-  memos.)
-  Please <span class="important">email your memo as a PDF attachment to all members of your team **and** the instructor.</span>
-  Please <span class="important">put “INF2303 memo for *date* class” for subject.</span>
-  (Subsitute the correct date of the class, e.g., “INF2303 memo for July 10 class.”)
-Students responsible for chairing each class will be tasked with
-  reading and summarizing submitted memos in writing.
-
-### Term Paper and Presentation - 50%
-
-A major component of the course is a term paper exploring a specific
-  topic related to the content of the course.
-
-There are three deliverables related to this term paper, including:
-
-* a paper proposal,
-* a presentation (on August 19),
-* the final paper.
-
-The proposal, the presentation, and the final paper will be graded
-  <span class="important">together</span> and will be jointly worth
-  50% of your grade.
-
-It is recommended that students work on their papers in <span
-  class="important">teams of two</span>.
-However, they can opt to work individually or in groups of three.
+Students will write an 8-10 page paper exploring a specific topic related to the content of the course.
+This will be an individual assignment. 
 
 Students can pick paper topics that best align with their professional
   interests, as long as there is a clear relationship to the topics
@@ -118,68 +61,6 @@ Due to the short duration of the course, students should start working
   on their papers <span class="important">very early</span>, ideally
   not later than the second week of the course.
 
-#### Paper Proposal
-
-Prior to developing the paper, each team will prepare a paper
-  proposal.
-The teams will share their paper proposals with the rest of the class
-  to receive feedback from other students.
-
-The **main text** of the proposal should be up to 2 pages long and
-  should answer the following questions:
-
-* What is the topic that the paper will focus on?
-* Why is this topic interesting in the context of this course?
-* What claims do you expect to make in this paper and how do you
-  expect to support them?
-
-Your proposal should also include a **2 page annotated bibliography** of the
-  sources you intend to use.
-Each source should be accompanied by a brief description, stating what
-  it is about and how you plan to use it.
-
-Paper proposals will not receive individual grades, but will be graded
-  together with the final paper.
-
-
-#### Final Presentation
-
-Each team will make a short (5-10 minutes) presentation about their research on the last day of class.
-
-#### Final Term Paper
-
-The final deliverable is a paper of 5,000–7,000 words, due at the end
-  of the semester.
-The papers will be shared with other students and will be evaluated by
-  the instructor according to the following criteria:
-
-* **Use of sources.** The paper should be based on substantial
-  research — you should plan to drawing on academic books and
-  articles, not on blogs or Wikipedia. The sources need to be used and
-  documented in an appropriate way.
-* **Quality of the argument.** The paper should present a coherent and
-  original argument.
-  It should not repeat what is readily available in other sources.
-  It also should not meander through a collection of unrelated ideas.
-* **Quality of writing.** The paper should be well written. Being well
-  written means your use of language should not stand in the way of
-  the reader’s comprehension of your text, either by obfuscating the
-  meaning or by drawing the reader’s attention from the content of
-  your writing to its form.
-
-The final grade for the paper will also incorporate an assessment of
-  your original proposal and the presentation.
-
-### Paper Proposal Reviews — 10%
-
-Each student will receive three proposals from other teams and will
-  then be asked to write a review of each proposal.
-The reviews should be constructive in their focus and aim to help the
-  author of each proposal improve their paper.
-Each review should be 1–2 pages long and can include a bibliography if
-  appropriate.
-(If you include a bibliography, do not count it towards the page
-  limit.)
 
 ### A Course “Patch” — 10%
 
