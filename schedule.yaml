@@ -1,9 +1,8 @@
-
 - week : 1        
   classes :
   
     - date : Monday, July 8
-      title : An Introduction
+      title : Introduction to course, overview of syllabus and introductory lecture on OS
       summary : |
         What is free software? What is open source software?
         (What is the difference?)
@@ -55,7 +54,7 @@
             
 
     - date : Wednesday, July 10
-      title : Hackers
+      title : Hackers-lecture (1 hour) seminar presentations for rest of class
       summary: |
         Free software is often associated with "hackers". Who <i>are</i> hackers?
       readings :
@@ -224,8 +223,11 @@
               bitly: http://bit.ly/12n8Rzb
 
     - date : Wednesday, July 24
-      title : |
-        From Linux to Open Source
+      title : Student presentations—no readings
+        
+   - week : 4
+    -date : Monday, July 29
+      title : From Linux to Open Source
       due: |        
         <span class="important">Paper proposals due at the beginning
         of class.</span>
@@ -257,10 +259,10 @@
               url : http://papers.ssrn.com/sol3/papers.cfm?abstract_id=443040
               bitly: http://bit.ly/1bwNDyi
 
-- week : 4
+
 
   classes :
-    - date : Monday, July 29
+    - date : Wed, July 31
       title : User Innovation Networks
       due : |
         <span class="important">Proposal reviews due at the beginning
@@ -297,8 +299,14 @@
               url  : http://onlinelibrary.wiley.com.myaccess.library.utoronto.ca/doi/10.1111/j.1467-9779.2010.01467.x/abstract
               bitly: http://bit.ly/11wbt7M
 
-    - date : Wednesday, July 31
-      title : Infrastructure
+  - Week 5
+    
+    - date : Monday, August 5
+      no_class : Civic Holiday
+  
+    - date : Wednesday, August
+    
+    title : Infrastructure
       summary : |        
         But how do free / open source software projects actually get anything done?
         What tools do they use?
@@ -323,15 +331,7 @@
           availability :
             - type : electronic
               url  : http://www.youtube.com/watch?v=4XpnKHJAok8
-              bitly: http://bit.ly/12GCkW8
-
-- week : 5
-  classes :
- 
-    - date : Monday, August 5
-      no_class : Civic Holiday
-  
-    - date : Wednesday, August 7
+              bitly: http://bit.ly/12GCkW87
       title : Open Source and Open Source 2.0
       summary : |
         Has open source gone corporate? If so, what are the implications?
@@ -415,14 +415,4 @@
 
   classes :
     - date : Monday, August 19
-      title : Student Presentations
-      due : |
-        <span class="important">Students present their work.</span> No
-        readings.
-        
-        <span class="important">An electronic submission of the paper
-        is due through TurnItIn by midnight on «TBD».</span>
-        
-        <span class="important">An electronic submission of the “course patch”
-        is due through TurnItIn by midnight on «TBD».</span>
-
+      title : 
